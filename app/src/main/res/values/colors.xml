@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quiverPrimaryBackground">@color/md_blue_500</color>
+    <color name="quiverSecondaryBackground">@color/md_blue_700</color>
+    <color name="quiverColorBackgroundAccent">@color/md_pink_500</color>
+    <color name="quiverBackgroundColor">@color/md_green_600</color>
+    <color name="quiverPrimaryTextColor">@color/md_white_1000</color>
+    <color name="quiverSecondaryTextColor">@color/md_yellow_500</color>
+
+
+
+</resources>

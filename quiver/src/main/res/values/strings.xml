@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiver</string>
+    <string name="subscription_retry_dialog_retry">Retry</string>
+    <string name="subscription_retry_dialog_cancel">Cancel</string>
+    <string name="subscription_retry_dialog_messages_error_failed_no_internet">Cannot connect to the server. Please ensure you have an internet connection available and try again.</string>
+    <string name="subscription_retry_dialog_title">Connection error</string>
+</resources>

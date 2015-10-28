@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/comms/flickr/models/FlickrPhoto.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/ui/BaseActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/ui/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/ui/SearchActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/ui/widgets/FlickrImageViewHolder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zagros/quiver/sample/ui/widgets/FlickrRecyclerViewAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/placeholder.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v21" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/android_material_design_colours.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/quiver/src/main/java/com/zagros/quiver/rest" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
